@@ -5,7 +5,7 @@ Welcome to the Pizza Sales Analysis repository! This project provides a comprehe
 TechStack - Microsoft Power BI, MySQL, Excel
 
 ## Table Of Contents
-* [Getting Started](https://linktoGettingStarted)
+* [Getting Started](#Getting Started)
 * [SQL Queries and Insights](https://linktoDataAnalysiswithSQL)
 * [Creating Dashboards with Power BI](https://linktoCreatingDashboardswithPowerBI)
 * [Feedback](https://linktoFeedback)
