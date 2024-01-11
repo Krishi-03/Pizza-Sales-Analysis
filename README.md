@@ -1,6 +1,6 @@
 
 # Pizza Sales Analysis
-Welcome to the Pizza Sales Analysis repository! This project provides a comprehensive analysis of a pizza restaurant's sales data using SQL queries and Power BI visualizations.
+Welcome to the Pizza Sales Analysis repository! This project provides a comprehensive analysis of a pizza sales data from Jan/2015 - Dec/2015 using SQL queries and Power BI visualizations.
 
 TechStack - Microsoft Power BI, MySQL, Excel
 
