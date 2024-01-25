@@ -18,11 +18,11 @@ Clone the repository:
 
 Data Analysis with SQL: 
 * The preliminary data analysis involved the utilization of SQL. 
-* SQL scripts and queries were employed to extract and transform the data. The queries can be found from [Data Analysis with SQL](https://linktoDataAnalysiswithSQL).
+* SQL scripts and queries were employed to extract and transform the data. The queries can be found from SQL Queries document.
 
 Creating interactive Dashboards with Power BI:
 * The Power BI project file Sales_Dashboard.pbix that can be accessed from the repository, contains the interactive dashboards.
-* You can open and customize it with Power BI Desktop. An overview of same can be found out from [Creating Dashboards with Power BI](https://linktoCreatingDashboardswithPowerBI).
+* You can open and customize it with Power BI Desktop. An overview of same can be found out from the Power BI project file (Sales_Dashboard.pbix).
 ## SQL Queries and Insights
 The SQL analysis encompassed the extraction and transformation of data, incorporating information on pizza sales, categories, sizes, and diverse Key Performance Indicators. The queries provide insights about:
 * Daily and monthly trends of the pizzas sold and the revenue generated.
